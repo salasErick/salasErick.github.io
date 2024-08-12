@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://salasErick.github.io/sitemap.xml
+Sitemap: https://salasErick.github.ioblank/sitemap.xml
