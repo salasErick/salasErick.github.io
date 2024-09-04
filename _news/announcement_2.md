@@ -1,33 +1,34 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: I started my junior year of college
+date: 2024-08-05 16:00:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+A new semester has just started for me
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
+Just two days after my research stay concluded, I started a new semester that makes me more than excited. I am finally on my analysis and design of algorithms course as well as finally taking a course on operating systems; two of the courses that interest me the most. These are the courses I'm taking this semester:
+#### Fall 2024 Schedule
 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>Operating Systems</li>
+    <li>Analysis and Design of Algorithms</li>
+    <li>Software Engineering</li>
+    <li>Business Development</li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+Although the one doesn't interest me very much is the last one, I should not take it for granted and still study for it. All of us know how tech companies shock the world and change the way we do things. Knowing the basics of a business is beneficial for my degree.
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+As always, I like studying from different books and for my courses but my main books will be the following:
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+<ul>
+    <li><a href="https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X">Introduction to Algorithms, 4th Edition by Thomas H. Cormen</a></li>
+    <li><a href="https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1119800366">Operating Systems Concepts, 10th Edition by Abraham Silberschatz</a></li>
+    <li><a href="https://www.amazon.com/Software-Engineering-10th-Ian-Sommerville/dp/0133943038">Software Engineering, 10th Edition by Ian Sommerville</a></li>
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+</ul>
