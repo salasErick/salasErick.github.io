@@ -27,8 +27,8 @@ Although the one doesn't interest me very much is the last one, I should not tak
 As always, I like studying from different books and for my courses but my main books will be the following:
 
 <ul>
-    <li><a href="https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X">Introduction to Algorithms, 4th Edition by Thomas H. Cormen</a></li>
-    <li><a href="https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1119800366">Operating Systems Concepts, 10th Edition by Abraham Silberschatz</a></li>
-    <li><a href="https://www.amazon.com/Software-Engineering-10th-Ian-Sommerville/dp/0133943038">Software Engineering, 10th Edition by Ian Sommerville</a></li>
+    <li><a href="https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/">Introduction to Algorithms, 4th Edition by Thomas H. Cormen</a></li>
+    <li><a href="https://www.os-book.com/OS10/index.html">Operating Systems Concepts, 10th Edition by Abraham Silberschatz</a></li>
+    <li><a href="https://www.pearson.com/en-us/subject-catalog/p/software-engineering/P200000003258/9780137503148">Software Engineering, 10th Edition by Ian Sommerville</a></li>
 
 </ul>
