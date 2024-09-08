@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My undergradute research stay at Universidad de Guanajuato has concluded.
+My undergradute research stay at Universidad Politécnica de Guanajuato has concluded.
