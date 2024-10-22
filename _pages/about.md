@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.uacj.mx'>UACJ</a>. <a href='https://dahjrz.com'>DAH</a>. You never stop learning.
+subtitle: Undergraduate Student at <a href='https://www.uacj.mx'>UACJ</a>. Volunteer at <a href='https://dahjrz.com'>DAH</a>. You never stop learning.
 
 profile:
   align: right
