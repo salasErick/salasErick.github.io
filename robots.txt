@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://www.erickjosafat.com/sitemap.xml
+Sitemap: http://www.ericksalas.com/sitemap.xml
